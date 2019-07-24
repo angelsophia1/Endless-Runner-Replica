@@ -1,6 +1,6 @@
 # RunGameProto
  
-This is an Endless Runner Replica game created by Unreal Engine 4.
+This is an Endless Runner Replica game created by Unreal Engine 4(Blueprint Project).
 
 Following UE4 Official Tutorials, I have created this project which is similar to the original Unreal Engine game.
 
